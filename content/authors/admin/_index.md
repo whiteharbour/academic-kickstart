@@ -1,6 +1,7 @@
 ---
 title: Himanshu Modi
-role: ""
+role: Mechanical Engineer with experience in design and expertise on CAD and CFD
+  tools
 avatar_filename: linkedin-images-2-.png
 organizations:
   - name: Stanford University
@@ -8,8 +9,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My interest includes designing "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
