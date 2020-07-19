@@ -4,7 +4,7 @@ role: Mechanical Engineer with experience in design and expertise on CAD and CFD
   tools
 avatar_filename: linkedin-images-2-.png
 organizations:
-  - name: Stanford University
+  - name: The University of Texas at Arlington
     url: ""
 superuser: true
 authors:
@@ -29,16 +29,13 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MS in Mechanical Engineering
+      institution: The University of Texas at Arlington
+      year: 2020
+    - course: "B.Eng in Mechanical Engineering "
+      institution: University of Mumbai
+      year: 2018
+email: himanshumodi96@outlook.com
 user_groups:
   - Researchers
   - Visitors
